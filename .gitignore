@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+*.pem
+*.key
+credentials.json
+
+# Binaries & build artifacts
+bin/
+dist/
+*.exe
+*.test
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Local data & uploads
+tmp/
+uploads/
+test_fixtures/live_*
