@@ -8,8 +8,8 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/your-username/docflow-ai/internal/database"
-	"github.com/your-username/docflow-ai/internal/verifier"
+	"github.com/rdeviprasad/docflow-ai/internal/database"
+	"github.com/rdeviprasad/docflow-ai/internal/verifier"
 )
 
 func main() {
